@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/anim/abc_fade_in.xml",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/anim/abc_fade_out.xml",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/anim/abc_slide_in_top.xml"
+    }
+]

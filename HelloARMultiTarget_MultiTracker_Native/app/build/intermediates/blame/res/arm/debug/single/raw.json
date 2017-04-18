@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/raw/torreon_mat.mtl",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/src/main/res/raw/torreon_mat.mtl"
+    },
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/raw/torreon_obj.obj",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/src/main/res/raw/torreon_obj.obj"
+    },
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/raw/torre_diffuse6.jpg",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/src/main/res/raw/torre_diffuse6.jpg"
+    },
+    {
+        "merged": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/build/intermediates/res/merged/arm/debug/raw/torre_normals.jpg",
+        "source": "/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/src/main/res/raw/torre_normals.jpg"
+    }
+]

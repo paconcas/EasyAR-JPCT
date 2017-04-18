@@ -1,0 +1,13 @@
+{
+  "images" :
+  [
+    {
+      "image" : "idback.jpg",
+      "name" : "target0"
+    },
+    {
+      "image" : "namecard.jpg",
+      "name" : "target1"
+    }
+  ]
+}

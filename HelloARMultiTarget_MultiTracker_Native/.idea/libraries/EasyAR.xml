@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EasyAR">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/package/Android/libs/EasyAR.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

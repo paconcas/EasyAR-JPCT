@@ -1,0 +1,55 @@
+apply plugin: 'com.android.model.application'
+
+model {
+    android {
+        compileSdkVersion = 23
+        buildToolsVersion = "23.0.2"
+
+        defaultConfig.with {
+            applicationId = "cn.easyar.samples.helloarmultitargetmt"
+            minSdkVersion.apiLevel  =15
+            targetSdkVersion.apiLevel = 22
+            versionCode = 1
+            versionName = "1.0"
+        }
+    }
+    android.buildTypes {
+        release {
+            minifyEnabled = false
+            proguardFiles.add(file("proguard-rules.pro"))
+        }
+    }
+    android.ndk {
+        moduleName = "HelloARMultiTargetMTNative"
+        cppFlags.add("-I${file("../package/include")}".toString())
+        cppFlags.add("-DANDROID")
+        cppFlags.add("-fexceptions")
+        cppFlags.add("-frtti")
+        stl = "gnustl_static"
+        ldLibs.add("log")
+        ldLibs.add("GLESv2")
+    }
+    android.productFlavors {
+        create("arm") {
+            ndk.with {
+                abiFilters.add("armeabi-v7a")
+            }
+        }
+    }
+    android.sources {
+        main {
+            jni {
+                dependencies {
+                    library file("../package/Android/libs/armeabi-v7a/libEasyAR.so") abi "armeabi-v7a"
+                }
+            }
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: '../package/Android/libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:20.0.0'
+    compile files('libs/jpct_ae.jar')
+}

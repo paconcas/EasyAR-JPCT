@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/src/androidTest/assets"/></dataSet><dataSet config="arm"><source path="/Users/pabloconde/Desktop/EasyAR+JPCT/HelloARMultiTarget_MultiTracker_Native/app/src/androidTestArm/assets"/></dataSet></merger>
